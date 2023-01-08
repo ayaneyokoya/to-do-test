@@ -1,2 +1,2 @@
 # to-do-test
-my first attempt at playing around with react.js!
+My first mini-project using react.js.
